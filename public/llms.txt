@@ -1,0 +1,79 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### Home
+https://example.com
+Simply Homemade Bakery creates custom baked goods from scratch daily. Order personalized cookies, cakes, and treats made with love. Taste the homemade difference today!
+
+### Process
+https://example.com/process
+Discover our simple custom bakery process from consultation to delivery. We work with you to design personalized baked goods that exceed expectations every time.
+
+### Gallery
+https://example.com/gallery
+Explore stunning photos of our customizable cookies, cakes, and pastries. Get inspired by real custom orders from Simply Homemade Bakery and start designing yours!
+
+### Contact
+https://example.com/contact
+Ready to place your custom bakery order? Contact Simply Homemade Bakery now for fresh baked goods made to your specifications. Let&#39;s create something delicious together!
+
+### Products
+https://example.com/products
+Our Products - Simply Homemade Bakery
+
+### Cart
+https://example.com/cart
+Your Cart
+
+### Checkout
+https://example.com/checkout
+Checkout
+
+### Login
+https://example.com/login
+Customer Login
+
+### Account
+https://example.com/account
+My Account
+
+### Order Success
+https://example.com/order-success
+Thank you for your order
+
+### Product Detail
+https://example.com/product/:slug
+Product Details - Simply Homemade Bakery
+
+### Category
+https://example.com/category/:slug
+Products - Simply Homemade Bakery
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
